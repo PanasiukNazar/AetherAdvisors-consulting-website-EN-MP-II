@@ -3640,6 +3640,10 @@ hr {
     background-size: cover;
 }
 
+.slider-height2 {
+    background-color: rgba(1, 10, 28, 0.4);
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     /* line 18, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_h1-hero.scss */
     .slider-height2 {
@@ -3927,6 +3931,9 @@ hr {
 }
 
 /* line 238, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_h1-hero.scss */
+.slider-area2 {
+    background-color: rgba(1, 10, 28, 0.4);
+}
 .slider-area2 .hero-cap h2 {
     color: #fff;
     font-size: 50px;
