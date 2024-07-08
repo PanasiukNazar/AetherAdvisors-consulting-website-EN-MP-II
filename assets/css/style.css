@@ -3640,6 +3640,13 @@ hr {
     background-size: cover;
 }
 
+@media (max-width: 772px) {
+    #testimonials1,
+    #testimonials2 {
+        display: none;
+    }
+}
+
 .slider-height2 {
     background-color: rgba(1, 10, 28, 0.4);
 }
@@ -5135,7 +5142,11 @@ hr {
         padding: 82px 18px 20px 18px;
     }
 }
-
+@media (max-width: 772px) {
+    .testimonial-area .testimonial-caption {
+        height: 100% !important;
+    }
+}
 /* line 23, C:/Users/HP/Desktop/jun-2020/280.Industrial_HTML/assets/scss/_testimonial.scss */
 .testimonial-area .testimonial-caption p {
     font-size: 16px;
